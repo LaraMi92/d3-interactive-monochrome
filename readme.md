@@ -4,4 +4,4 @@ By dynamically cropping a b&w picture, the active selection will be rendered ful
 This is a good way to get introduced to d3.js, with detailed comments.
 
 
-<iframe src="https://onedrive.live.com/embed?cid=D3603C32D526A9DA&resid=D3603C32D526A9DA%215029&authkey=ACBgd9zbE8OT1_g" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+<img src="https://onedrive.live.com/embed?cid=D3603C32D526A9DA&resid=D3603C32D526A9DA%215029&authkey=ACBgd9zbE8OT1_g" width="98" height="120">
